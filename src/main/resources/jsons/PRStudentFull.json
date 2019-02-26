@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "firstName": "Panagiotis",
+  "lastName": "Ressos",
+  "active": true,
+  "address": {
+    "street": "Patriarxou Grigoriou 15",
+    "city": "Kallithea",
+    "state": "Attica",
+    "zip": 17676,
+    "country": "Greece"
+  },
+  "languages": ["Java"," Python","C","Javascript"],
+  "job": "Programmer"
+}
